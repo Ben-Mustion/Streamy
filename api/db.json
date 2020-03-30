@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "first post",
+      "description": "is it working???",
+      "id": 1
+    },
+    {
+      "title": "second post",
+      "description": "looks like its working",
+      "id": 2
+    },
+    {
+      "title": "George Gone Wild",
+      "description": "Little pup goes crazy in his apartment",
+      "userId": "108459774432299468239",
+      "id": 3
+    },
+    {
+      "title": "Roxie Loses It",
+      "description": "Roxie starts losing her mind stuck inside all day",
+      "userId": "108459774432299468239",
+      "id": 4
+    },
+    {
+      "title": "Should We Get A Peloton",
+      "description": "No",
+      "userId": "108459774432299468239",
+      "id": 5
+    },
+    {
+      "title": "Tik Tok v1",
+      "description": "Here we gooooo",
+      "userId": "108459774432299468239",
+      "id": 6
+    },
+    {
+      "title": "OnUpkeep",
+      "description": "We'll help you fix your shit!",
+      "userId": "108459774432299468239",
+      "id": 9
+    }
+  ]
+}
